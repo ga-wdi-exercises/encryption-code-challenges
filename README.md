@@ -40,15 +40,6 @@ caesar("hello", 2)
 # => "jgnnq"
 ```
 
-<details>
-  <summary><strong>Hint...</strong></summary>
-  
-  ```
-  One approach is to generate a numerical representation of a character and manipulate that. Google something along the lines of "javascript character unicode".
-  ```
-  
-</details>
-
 ### Bonus
 
 The method should ignore any character that is not a letter.
