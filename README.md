@@ -1,10 +1,5 @@
 # Encryption Code Challenges
 
-Team up with a partner and pick a code challenge. You will spend 15 minutes solving it individually. After 15 minutes - even if you are not finished - you will spend 10 minutes reviewing review each other's code. Some things to discuss...
-* Approach
-* Where you got stuck
-* Opportunities for refactoring
-
 ----
 
 ## Maskify
